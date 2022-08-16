@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="348.088" height="356.792" viewBox="0 0 348.088 356.792">
+  <g id="Popup_11" transform="translate(-24.969 -30.347)">
+    <path id="Pfad_2" data-name="Pfad 2" d="M37.912,31.763H386V388.555H37.912Z" transform="translate(-12.943 -1.416)" fill="#bdbdbd"/>
+    <g id="Gruppe_61" data-name="Gruppe 61" transform="translate(73.844 92.518)">
+      <path id="Pfad_102" data-name="Pfad 102" d="M74.79,516.185c13.672-4.1,10.956,4.4,0,0C72.131,512.7,55,497.458,55,497.458v-83.12A57.34,57.34,0,0,1,112.338,357h28.673l-13.975,21.925s9.5,12.861,31.468,41.614a14.487,14.487,0,0,1-2.793,20.373l-6.508,6.2-16.588-9.953a16.387,16.387,0,0,0-8.429-2.335h-7.749a12.287,12.287,0,0,1-12.288-12.289h0c0,28.671,40.959,40.958,40.959,65.533V545.2H58.076S53.981,522.421,74.79,516.185Z" transform="translate(-55.001 -357)" fill="#fff"/>
+      <rect id="Rechteck_6" data-name="Rechteck 6" width="23.826" height="33.753" transform="translate(59.561 160.612)" fill="#00b4ae" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <rect id="Rechteck_7" data-name="Rechteck 7" width="25.811" height="57.579" transform="translate(99.271 136.786)" fill="#00b4ae" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <path id="Pfad_98" data-name="Pfad 98" d="M133.959,451.108v-49.15h16.383L121.671,361,93,401.958h16.383V533.025h24.575" transform="translate(72.567 -338.66)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <rect id="Rechteck_8" data-name="Rechteck 8" width="23.826" height="89.346" transform="translate(140.966 105.019)" fill="#00b4ae" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <line id="Linie_8" data-name="Linie 8" x1="3.132" y1="3.132" transform="translate(75.699 43.542)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <path id="Pfad_99" data-name="Pfad 99" d="M127.575,389H111.192a8.192,8.192,0,1,0,0,16.383h8.192a8.192,8.192,0,1,1,0,16.383H103" transform="translate(103.525 -251.977)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <line id="Linie_9" data-name="Linie 9" y2="7.942" transform="translate(218.4 128.845)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <line id="Linie_10" data-name="Linie 10" y2="7.942" transform="translate(218.4 170.539)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <path id="Pfad_100" data-name="Pfad 100" d="M87.767,427.767H59.1a4.1,4.1,0,0,1-4.1-4.1v-8.192A20.482,20.482,0,0,1,75.479,395H87.767" transform="translate(-45.076 -233.402)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <path id="Pfad_101" data-name="Pfad 101" d="M75.479,512.642,55,488.067V414.338A57.34,57.34,0,0,1,112.34,357h28.673l-13.975,21.925s9.5,12.861,31.468,41.614a14.487,14.487,0,0,1-2.793,20.373l-6.508,6.2-16.588-9.953a16.387,16.387,0,0,0-8.429-2.335h-7.749a12.287,12.287,0,0,1-12.288-12.289h0c0,28.671,40.959,40.958,40.959,65.533" transform="translate(-45.076 -351.044)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+  </g>
+</svg>

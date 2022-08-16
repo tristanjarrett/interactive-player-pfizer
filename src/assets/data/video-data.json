@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "video": "https://player.vimeo.com/external/675379118.m3u8?s=d5ec1bda12c5c1432194044b55d273664592e20e",
+    "subtitles": "main_video_subs.vtt",
+    "guide": "bavenciorccdigitalpatientinformationbookletgbr10.pdf",
+    "faq_name": "Select a question for Andrea Spencer-Shaw, Clinical Nurse Specialist at the The Christie NHS Foundation Trust",
+    "chapters": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "start": "00:00.000",
+        "sections": [
+          {
+            "id": 1,
+            "title": "Defining (aRCC)",
+            "start": "01:04:000",
+            "end": "01:06:000",
+            "popups": 1,
+            "data": "Popup_01.html",
+            "image": "Popup_01.svg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "About avelumab + axitinib",
+        "start": "01:21.000",
+        "sections": [
+          {
+            "id": 1,
+            "title": "About Avelumab and Axitinib",
+            "start": "01:35:000",
+            "end": "01:37:000",
+            "popups": 2,
+            "popupContent": [
+              {
+                "title": "About avelumab (brand name BAVENCIO®)",
+                "data": "Popup_02.html",
+                "image": "Popup_02.svg"
+              },
+              {
+                "title": "About axitinib (brand name INLYTA®)",
+                "data": "Popup_03.html",
+                "image": "Popup_03.svg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "How to take avelumab & How to take axitinib",
+            "start": "02:08:900",
+            "end": "02:10:000",
+            "popups": 1,
+            "data": "Popup_04.html",
+            "image": "Popup_04.svg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Possible side effects",
+        "start": "02:11.000",
+        "sections": [
+          {
+            "id": 1,
+            "title": "",
+            "start": "02:58:000",
+            "end": "03:00:000",
+            "popups": 1,
+            "data": "Popup_05.html",
+            "image": "Popup_05.png"
+          },
+          {
+            "id": 2,
+            "title": "Infusion-related side effects",
+            "start": "03:13:000",
+            "end": "03:15:000",
+            "popups": 1,
+            "data": "Popup_06.html",
+            "image": "Popup_06.svg"
+          },
+          {
+            "id": 3,
+            "title": "Possible side effects",
+            "start": "03:54:000",
+            "end": "03:56:000",
+            "popups": 1,
+            "data": "Popup_07.html",
+            "image": "Popup_07.svg"
+          },
+          {
+            "id": 4,
+            "title": "Other common side effects",
+            "start": "04:04:000",
+            "end": "04:06:000",
+            "popups": 1,
+            "data": "Popup_08.html",
+            "image": "Popup_08.svg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Life during treatment",
+        "start": "04:07.000",
+        "sections": [
+          {
+            "id": 1,
+            "title": "Diet and appetite",
+            "start": "04:32:000",
+            "end": "04:34:000",
+            "popups": 1,
+            "data": "Popup_09.html",
+            "image": "Popup_09.svg"
+          },
+          {
+            "id": 2,
+            "title": "Exercise and rest",
+            "start": "04:54:000",
+            "end": "04:56:000",
+            "popups": 1,
+            "data": "Popup_10.html",
+            "image": "Popup_10.svg"
+          },
+          {
+            "id": 3,
+            "title": "Work and finances",
+            "start": "06:07:000",
+            "end": "06:09:000",
+            "popups": 1,
+            "data": "Popup_11.html",
+            "image": "Popup_11.svg"
+          },
+          {
+            "id": 4,
+            "title": "Explaining to loved ones",
+            "start": "06:30:000",
+            "end": "06:32:000",
+            "popups": 1,
+            "data": "Popup_12.html",
+            "image": "Popup_12.svg"
+          },
+          {
+            "id": 5,
+            "title": "Where to find out more",
+            "start": "06:53:000",
+            "end": "06:55:000",
+            "popups": 1,
+            "data": "Popup_13.html",
+            "image": "Popup_13.svg"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+          "question": "What does ‘aRCC’ stand for?",
+          "video": "Q1.mp4",
+          "subtitles": "Q1.vtt"
+      },
+      {
+          "question": "How do my treatments work?",
+          "video": "Q2.mp4",
+          "subtitles": "Q2.vtt"
+      },
+      {
+          "question": "Why is one treatment a tablet and one treatment an infusion?",
+          "video": "Q3.mp4",
+          "subtitles": "Q3.vtt"
+      },
+      {
+          "question": "How often do I have to take each treatment?",
+          "video": "Q4.mp4",
+          "subtitles": "Q4.vtt"
+      },
+      {
+          "question": "Are these the only treatments I have to take?",
+          "video": "Q5.mp4",
+          "subtitles": "Q5.vtt"
+      },
+      {
+          "question": "Does it matter if I eat or drink before or after my treatments?",
+          "video": "Q6.mp4",
+          "subtitles": "Q6.vtt"
+      },
+      {
+          "question": "What if I miss (or forget) a treatment?",
+          "video": "Q7.mp4",
+          "subtitles": "Q7.vtt"
+      },
+      {
+          "question": "How do I store my axitinib?",
+          "video": "Q8.mp4",
+          "subtitles": "Q8.vtt"
+      },
+      {
+          "question": "How likely am I to have side effects?",
+          "video": "Q9.mp4",
+          "subtitles": "Q9.vtt"
+      },
+      {
+          "question": "How long will my side effects last?",
+          "video": "Q10.mp4",
+          "subtitles": "Q10.vtt"
+      },
+      {
+          "question": "How bad will my side effects be?",
+          "video": "Q11.mp4",
+          "subtitles": "Q11.vtt"
+      },
+      {
+          "question": "What should I do if I have a side effect?",
+          "video": "Q12.mp4",
+          "subtitles": "Q12.vtt"
+      },
+      {
+          "question": "Where can I find more information?",
+          "video": "Q13.mp4",
+          "subtitles": "Q13.vtt"
+      },
+      {
+        "question": "I’ve read something online about kidney cancer that concerns me. What should I do?",
+        "video": "Q14.mp4",
+        "subtitles": "Q14.vtt"
+      },
+      {
+        "question": "Glossary",
+        "document": "Glossary.html"
+      }
+    ]
+  }
+]

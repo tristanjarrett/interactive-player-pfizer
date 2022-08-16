@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="346.016" height="358.171" viewBox="0 0 346.016 358.171">
+  <g id="Popup_10" transform="translate(-25.058 -26.675)">
+    <path id="Pfad_2" data-name="Pfad 2" d="M37.912,31.763H383.928V389.934H37.912Z" transform="translate(-12.854 -5.088)" fill="#bdbdbd"/>
+    <g id="Gruppe_59" data-name="Gruppe 59" transform="translate(70.078 72.611)">
+      <g id="Gruppe_60" data-name="Gruppe 60" transform="translate(27.886)">
+        <path id="Pfad_97" data-name="Pfad 97" d="M254.138,194.022l27.654-2.763a1.878,1.878,0,0,1,2.118,1.662c1.19,11.958,9.484,78.657,48.781,115.113,8.026,7.444,10.2,19.858,3.811,28.755-4.215,5.872-11.659,10.144-24.76,8.079-29.583-4.671-58.464-35.371-81.557-71.758-7.313-11.523-17.206-21.431-29.232-27.89-1.678-.9-3.387-1.735-5.1-2.459-11.518-4.86-52.561-37.913-29.73-61.609,19.481-20.21,52.435-31.329,61.7-34.165a1.859,1.859,0,0,1,2.432,1.819c-.021,7.423,1.085,29.289,14.039,41.787a12.43,12.43,0,0,0,9.844,3.429Z" transform="translate(-159.324 -146.898)" fill="#fff"/>
+        <path id="Pfad_92" data-name="Pfad 92" d="M317.427,325.317c-29.583-4.671-64.943-45.268-88.042-81.651-7.313-11.528-13.95-24.629-25.976-31.093-1.678-.9-3.387-1.73-5.1-2.454-11.518-4.86-51.759-35.575-28.928-59.271" transform="translate(-135.857 -124.11)" fill="none" stroke="#343844" stroke-width="8"/>
+        <g id="Gruppe_59-2" data-name="Gruppe 59" transform="translate(111.347 84.51)">
+          <path id="Pfad_93" data-name="Pfad 93" d="M208.163,161.869l-29.515,3.083c.886,3.481,1.861,7.056,2.988,10.763l29.258-3.5" transform="translate(-178.648 -161.869)" fill="#00b4ae" stroke="#343844" stroke-width="8"/>
+          <path id="Pfad_94" data-name="Pfad 94" d="M210.359,165.934l-30.516,2.453c1.263,3.549,2.674,7.13,4.183,10.721l28.854-2.039" transform="translate(-173.578 -144.624)" fill="#00b4ae" stroke="#343844" stroke-width="8"/>
+          <path id="Pfad_95" data-name="Pfad 95" d="M210.192,170l-28.629,2.38c1.777,3.57,3.664,7.114,5.735,10.585l28.377-2.2" transform="translate(-166.281 -127.365)" fill="#00b4ae" stroke="#343844" stroke-width="8"/>
+        </g>
+        <path id="Pfad_96" data-name="Pfad 96" d="M224.615,178.322s-21.006-5.814-39.816,13" transform="translate(-41.205 -11.159)" fill="none" stroke="#343844" stroke-width="8"/>
+        <path id="Pfad_91" data-name="Pfad 91" d="M254.138,194.022l27.654-2.763a1.878,1.878,0,0,1,2.118,1.662c1.19,11.958,9.484,78.657,48.781,115.113,8.026,7.444,10.2,19.858,3.811,28.755-4.215,5.872-11.659,10.144-24.76,8.079-29.583-4.671-58.464-35.371-81.557-71.758-7.313-11.523-17.206-21.431-29.232-27.89-1.678-.9-3.387-1.735-5.1-2.459-11.518-4.86-52.561-37.913-29.73-61.609,19.481-20.21,52.435-31.329,61.7-34.165a1.859,1.859,0,0,1,2.432,1.819c-.021,7.423,1.085,29.289,14.039,41.787a12.43,12.43,0,0,0,9.844,3.429Z" transform="translate(-149.281 -140.872)" fill="none" stroke="#343844" stroke-width="8"/>
+      </g>
+      <line id="Linie_5" data-name="Linie 5" x1="224.823" transform="translate(0 204.524)" fill="none" stroke="#343844" stroke-width="8"/>
+      <line id="Linie_6" data-name="Linie 6" x1="34.227" y1="26.563" transform="translate(69.551 149.372)" fill="none" stroke="#00b4ae" stroke-linecap="round" stroke-width="8"/>
+      <line id="Linie_7" data-name="Linie 7" x1="42.04" transform="translate(39.298 182.488)" fill="none" stroke="#00b4ae" stroke-linecap="round" stroke-width="8"/>
+    </g>
+  </g>
+</svg>
